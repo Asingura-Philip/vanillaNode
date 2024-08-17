@@ -1,0 +1,5 @@
+--javascript fundamentals(functions,loops,objects,classes etc)
+--asynchronous programming-promises,callbacks,asyn/await
+--Http basics(methods,status codes,etc)
+--How Json APIs work
+--NPM(Node package manager)
